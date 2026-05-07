@@ -78,7 +78,7 @@ The application validated only the outer extension (`.jpg`) while the server int
 
 ---
 
-### 2. Vulnerable Location
+### 2. Attacker User-Agent
 
 ![Review Upload](reviewupload.jpg)
 
@@ -94,6 +94,7 @@ The application validated only the outer extension (`.jpg`) while the server int
 ### 3. Command & Control Activity
 
 **Port Used:** 
+
 ![Outbound Port](outboundport8080.jpg)
 
 The attacker established a reverse shell connection for remote command execution.
