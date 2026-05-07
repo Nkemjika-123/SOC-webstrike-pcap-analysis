@@ -104,7 +104,8 @@ The attacker established a reverse shell connection for remote command execution
 ### 4. Threat Attribution Indicators
 
 **User-Agent:**
-`Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0`
+
+![](threatindicator.jpg)
 
 **Geolocation:** Tianjin, China
 
@@ -112,7 +113,8 @@ The attacker established a reverse shell connection for remote command execution
 
 ### 5. Exfiltration Attempt
 
-**Targeted File:**  
+**Targeted File:**
+
 `/etc/passwd`
 
 ### Security Impact
