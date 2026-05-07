@@ -68,7 +68,8 @@ The attacker successfully:
 
 **Attack Vector:** File Upload Vulnerability
 
-**Payload Uploaded:**  
+**Payload Uploaded:** 
+
 ![Malicious File](maliciousfileimage.jpg)
 
 ### Why It Worked
@@ -92,7 +93,8 @@ The application validated only the outer extension (`.jpg`) while the server int
 
 ### 3. Command & Control Activity
 
-**Outbound Port:** `8080`
+**Port Used:** 
+![Outbound Port](outboundport8080.jpg)
 
 The attacker established a reverse shell connection for remote command execution.
 
