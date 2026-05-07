@@ -69,7 +69,7 @@ The attacker successfully:
 **Attack Vector:** File Upload Vulnerability
 
 **Payload Uploaded:**  
-![Malicious File](malicious-file-image.jpg)
+!
 
 ### Why It Worked
 
