@@ -109,6 +109,8 @@ The attacker established a reverse shell connection for remote command execution
 
 **Geolocation:** Tianjin, China
 
+![](Geolocation.jpg)
+
 ---
 
 ### 5. Exfiltration Attempt
