@@ -79,7 +79,7 @@ The application validated only the outer extension (`.jpg`) while the server int
 
 ### 2. Vulnerable Location
 
-`/reviews/uploads/`
+![Review Upload](reviewupload.jpg)
 
 #### Security Weaknesses Identified
 
