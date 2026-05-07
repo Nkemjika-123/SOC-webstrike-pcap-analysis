@@ -69,7 +69,7 @@ The attacker successfully:
 **Attack Vector:** File Upload Vulnerability
 
 **Payload Uploaded:**  
-`image.jpg.php`
+`![Malicious File](malicious file image.jpg)`
 
 ### Why It Worked
 
