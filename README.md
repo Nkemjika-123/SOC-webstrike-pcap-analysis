@@ -115,7 +115,7 @@ The attacker established a reverse shell connection for remote command execution
 
 **Targeted File:**
 
-`/etc/passwd`
+![](exfiltrationattempt.jpg)
 
 ### Security Impact
 
