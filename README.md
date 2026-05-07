@@ -78,7 +78,7 @@ The application validated only the outer extension (`.jpg`) while the server int
 
 ---
 
-### 2. Attacker User-Agent
+### 2. Upload Directory
 
 ![Review Upload](reviewupload.jpg)
 
